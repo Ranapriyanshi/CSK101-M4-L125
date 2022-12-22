@@ -1,0 +1,13 @@
+/* add your styles here */
+#app{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 25vh
+    ;
+}
+.img{
+    height: 60vh;
+    width: 60vh;
+}
